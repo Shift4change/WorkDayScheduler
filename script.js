@@ -34,8 +34,8 @@ for (i = 0; i < timeArr.length; i++) {
     console.log(intimp);
 
 
-    if (intimp < -20) {
-        userInput.attr("style", "background-color:red");
+    if (intimp < -50) {
+        userInput.attr("style", "background-color:gray");
     } else if (intimp > 0) {
         userInput.attr("style", "background-color:green");
     } 
