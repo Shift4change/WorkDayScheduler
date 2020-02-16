@@ -1,3 +1,3 @@
 # Workdayscheduler
 
-![]src="assets/.image.png"
+![].assets/.image.png"
